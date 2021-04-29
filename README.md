@@ -1,1 +1,2 @@
-# crumped-paper-game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
